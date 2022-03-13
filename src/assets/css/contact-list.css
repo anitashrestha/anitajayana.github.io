@@ -1,6 +1,6 @@
 @font-face {
 	font-family: OpenSans-Regular;
-	src: url(../../fonts/OpenSans/OpenSans-Regular.ttf);
+	src: url(../fonts/OpenSans/OpenSans-Regular.ttf);
 }
 * {
 	margin: 0;
@@ -108,7 +108,7 @@ tbody tr:nth-child(even) {
 	}
 	table tbody tr {
 		height: auto;
-		padding: 37px 0;
+		padding: 20px 0;
 	}
 	table.table-contact-list tbody tr td {
 		padding-left: 40% !important;

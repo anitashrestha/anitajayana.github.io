@@ -1,6 +1,5 @@
 import React from "react";
 import ContactTable from "./components/ContactList";
-import "./assets/css/contact-list.css";
 
 function App() {
 	return (

@@ -45,6 +45,7 @@ const ContactTable = () => {
 		<div className="main-container">
 			<h1>Contact List</h1>
 			<div className="container">
+				{isLoading && <span>Loading...</span>}
 				<table className="table-contact-list">
 					<thead>
 						<tr className="table-head">
@@ -54,7 +55,6 @@ const ContactTable = () => {
 							<th>Website</th>
 						</tr>
 					</thead>
-					{isLoading && <p>Loading...</p>}
 					{users.length > 0 && <tbody>{contactList}</tbody>}
 				</table>
 			</div>

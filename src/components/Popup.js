@@ -1,6 +1,3 @@
-import React from "react";
-import "../assets/css/contact-details.css";
-
 const ContactDetails = (props) => {
 	return (
 		<div className="popup-box">

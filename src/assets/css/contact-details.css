@@ -1,7 +1,7 @@
 /* Contact Details style */
 @font-face {
 	font-family: OpenSans-Regular;
-	src: url(../../fonts/OpenSans/OpenSans-Regular.ttf);
+	src: url(../fonts/OpenSans/OpenSans-Regular.ttf);
 }
 .popup-box {
 	position: fixed;
@@ -114,7 +114,10 @@ table.table-user-information tbody tr {
 		width: 20%;
 		text-align: left;
 	}
-
+	table.table-user-information tbody tr td {
+		padding: 0 8px;
+		line-height: 1.4;
+	}
 	.user-image {
 		float: none;
 		margin: 0 auto;
