@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/resonate-contacts-app/static/css/main.e2b84385.css",
+    "main.js": "/resonate-contacts-app/static/js/main.bc9788e0.js",
+    "static/js/787.195ca649.chunk.js": "/resonate-contacts-app/static/js/787.195ca649.chunk.js",
+    "static/media/OpenSans-Regular.ttf": "/resonate-contacts-app/static/media/OpenSans-Regular.d7d7b8359eeb9cddfba6.ttf",
+    "index.html": "/resonate-contacts-app/index.html",
+    "main.e2b84385.css.map": "/resonate-contacts-app/static/css/main.e2b84385.css.map",
+    "main.bc9788e0.js.map": "/resonate-contacts-app/static/js/main.bc9788e0.js.map",
+    "787.195ca649.chunk.js.map": "/resonate-contacts-app/static/js/787.195ca649.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2b84385.css",
+    "static/js/main.bc9788e0.js"
+  ]
+}
