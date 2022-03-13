@@ -43,7 +43,7 @@ const ContactTable = () => {
 
 	return (
 		<div className="main-container">
-			<h1>Contact List</h1>
+			<h1>Resonate Contact List</h1>
 			<div className="container">
 				{isLoading && <span>Loading...</span>}
 				<table className="table-contact-list">
